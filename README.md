@@ -1,7 +1,6 @@
 # git_assignment_HeroVired_NetworkingandServer
 This repository contains the assignment file with all three tasks performed locally, and the corresponding outputs are attached within it.
 
-Coonect to AWS: ssh  -i /home/rajiv-sharma/Downloads/DevOpsTest.pem ec2-user@ec2-43-205-115-66.ap-south-1.compute.amazonaws.com
 Task 1: Deploy a Website on Localhost Using Apache2
 Step-by-Step Documentation
 Objective: Deploy a simple HTML website on localhost using either Apache2 or Nginx and configure a custom DNS name rajivtest.
